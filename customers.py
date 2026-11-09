@@ -2,6 +2,16 @@
 # Author: Yara Hasan
 # Module 11 lab: Customer Dic
 
+# Reflection 1:
+# I would use .get() when I am not sure if a key exists.
+# I would use brackets when I know the key is there.
+# My rule is to use .get() to avoid errors.
+
+# Reflection 2:
+# This reminds me of PivotTables in Excel because both
+# summarize data by categories. Python is more useful
+# for large datasets because it can automate calculations
+# and process a lot of data quickly.
 
 print("---Exersice 1---")
 customer = {
